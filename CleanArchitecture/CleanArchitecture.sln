@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CA.Domain", "CA.Domain", "{D53F5D59-1820-4EAE-862F-0ED2B3CB7CFC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CA.Presentation", "CA.Presentation", "{B4D0DFCC-92E1-4561-B68A-D5C5E8CC2812}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CA.Infrastructure", "CA.Infrastructure", "{3C004844-239D-4B89-A58F-BC775C44B683}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CA.Application", "CA.Application", "{C82E8661-2D22-4FD3-BB05-2679435D3B3D}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13F1F699-AB7F-4E54-BF04-CB8CEE06CDEA}
+	EndGlobalSection
+EndGlobal
